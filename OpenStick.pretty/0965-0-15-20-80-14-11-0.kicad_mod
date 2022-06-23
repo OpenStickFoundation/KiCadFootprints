@@ -16,9 +16,4 @@
     (tstamp 01d6393d-dae1-4bf4-8901-28406eeb4037)
   )
   (pad "1" smd circle (at 0 0) (size 1.8288 1.8288) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cf141082-823c-4a45-b57e-cad179918d35))
-  (model "C:/Users/thegu/Downloads/mill-max-0965.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 90 0))
-  )
 )
